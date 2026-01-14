@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "dashboard-hero",
+      "description": "A person lifting weights in a modern gym.",
+      "imageUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxneW0lMjB3b3Jrb3V0fGVufDB8fHx8MTc2ODM3MzkxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gym workout"
+    },
+    {
+      "id": "user-avatar",
+      "description": "A placeholder avatar for a user.",
+      "imageUrl": "https://images.unsplash.com/photo-1729025004944-5aa651b2a62d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NjgzNjU4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "cta-image",
+      "description": "An image of a person checking their fitness app.",
+      "imageUrl": "https://images.unsplash.com/photo-1617625802912-cde586faf331?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaXRuZXNzJTIwYXBwfGVufDB8fHx8MTc2ODMzMDM2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness app"
+    }
+  ]
 }
